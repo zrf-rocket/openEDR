@@ -1,4 +1,4 @@
-# 跨境电商仓库管理系统（WMS）
+# 终端侦测与响应系统（EDR）
 
 ## 关于我们
 
@@ -31,6 +31,13 @@
 <img src="static/zhifubao.jpg" style="width:433px;" alt="请我喝咖啡">
 
 ## 产品核心功能模块
+
+![](index.jpg)
+![](forensic1.jpg)
+![](forensic2.jpg)
+![](response.jpg)
+![](response2.jpg)
+![](terminals.jpg)
 
 ## 产品清单
 
